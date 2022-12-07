@@ -1,6 +1,6 @@
 # Booking Engine Docker
 ## How to use
-### Prepare the images
+### Create the containers
 ```bash
 cp .env.example .env
 ```
