@@ -7,7 +7,7 @@ cp .env.example .env
 ```bash
 docker-compose up -d
 ```
-### Initialize API
+### Set API project
 
 ```bash
 docker-compose exec api composer install
